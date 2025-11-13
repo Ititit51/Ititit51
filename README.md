@@ -1,5 +1,7 @@
 # 💫 About Me:
-KOSEN-KMITL 6<br>Major : Computer<br>Year : 2 <br> Still learning <br>
+<h2> Hi I'm It </h2> 
+<br> Studying at Kosen-Kmitl6(Computer Engineer) <br> <br> I'm still learning, I interesting in CyberSecurity <br> <br> Outside of coding, You'll find me play Badminton,Volleyball,Running <br>
+
 ![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm5iZXpkamphdGx4YjYxZWhmd2N1MnZ2MHBobHB3dHBqMXMzMW1uZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z21HJj2kz9uBG/giphy.gif)
 
 ## 🌐 Socials:
