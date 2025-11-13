@@ -1,6 +1,6 @@
 # 💫 About Me:
-KOSEN-KMITL 6<br>Major : Computer<br>Year : 2 <br> Still learning
-
+KOSEN-KMITL 6<br>Major : Computer<br>Year : 2 <br> Still learning <br>
+![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm5iZXpkamphdGx4YjYxZWhmd2N1MnZ2MHBobHB3dHBqMXMzMW1uZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z21HJj2kz9uBG/giphy.gif)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itwasntittt) 
