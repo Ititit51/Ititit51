@@ -1,5 +1,5 @@
 # 💫 About Me:
-KOSEN-KMITL 6<br>Major : Computer<br>Year : 2
+KOSEN-KMITL 6<br>Major : Computer<br>Year : 2 <br> Still learning
 
 
 ## 🌐 Socials:
