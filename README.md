@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h2> Hi I'm It </h2> 
+<h2> Hi I'm It 🐸</h2> 
 <br> Studying at Kosen-Kmitl6(Computer Engineer) <br> <br> I'm still learning, I interesting in CyberSecurity <br> <br> Outside of coding, You'll find me play Badminton,Volleyball,Running <br>
 
 ![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm5iZXpkamphdGx4YjYxZWhmd2N1MnZ2MHBobHB3dHBqMXMzMW1uZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z21HJj2kz9uBG/giphy.gif)
@@ -11,8 +11,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ititit51&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ititit51&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ititit51&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ititit51&theme=radical&no-frame=false&no-bg=true&margin-w=4)
